@@ -22,14 +22,14 @@ Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 
-####Backend (PHP)
+#### Backend (PHP)
 RESTful API endpoints to serve restaurant and order data
 
 Data processing for analytics calculations
 
 Filtering and aggregation capabilities
 
-####Frontend (React)
+#### Frontend (React)
 Restaurant listing with search/sort/filter
 
 Analytics dashboard with charts and metrics
